@@ -1,0 +1,15 @@
+{
+  "name": "testing-3",
+  "version": "1.0.0",
+  "description": "gas level indicator",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudam Kalpage",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
