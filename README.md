@@ -1,7 +1,7 @@
 # testing-gas-app
 #### test front end 
 
-### /* requirements */-----------------
+### Requirements
 
 #### 1) mysql 
     $ sudo apt update
@@ -11,12 +11,12 @@
 #### 2) node js 
     $ sudo apt install nodejs
     $ sudo apt install npm
-### postman
+### 3) postman
     $ sudo snap install postman
 ##### *above commands are only in ubuntu
 
 
-### /* steps */--------------------------
+### Steps 
 
 #### open bash terminal (or git bash) and type following commands
     $ git clone https://github.com/sudamkalpage/testing-gas-app
